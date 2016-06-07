@@ -1,0 +1,5 @@
+name: ArchHideName
+api: 2.0.0
+version: 1#Beta
+main: ArchRPG\Main
+author: GamerXzavier
